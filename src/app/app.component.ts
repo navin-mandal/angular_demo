@@ -7,7 +7,6 @@ import { Component } from '@angular/core';
    * ` is a tilda key
    * {{title}} - it is called interpulation
   */
-
   template: `
     <h1>Hey Guys!</h1>
     <p>{{myObject.location}}</p>
